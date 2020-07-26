@@ -2,10 +2,10 @@ public class hello {
     public static void main(string[]args){
         system.out.println("vs code is awesome...");
 
-        greeting("Git");
+      display();
     }
 
-    public static void greeting(string name){
-        system.out.println("bye bye"+ name);
+    public static void display(){
+        system.out.println("hello hello");
     }
 }

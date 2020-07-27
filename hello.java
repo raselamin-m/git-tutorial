@@ -12,4 +12,8 @@ public class hello {
     public static int sqr(int x){
         return x*x;
     }
+
+    public static void add(int a,int b ){
+        return a+b;
+    }
 }
